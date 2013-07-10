@@ -1,1 +1,3 @@
 Arquivo referente a versão 3.
+
+Outra alteração.
