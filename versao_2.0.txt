@@ -1,5 +1,11 @@
 Nova implementação da versão 2.0
 
+<<<<<<< HEAD
 somente para testes. Ajuste versão 2.0 
 
 Correção.
+=======
+somente para testes.
+
+Alterado pela versão 3.0
+>>>>>>> versao_3
