@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"TableGateway"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git: pu",
+				"Git: Pull"
+			],
+			[
+				"syntax: py",
+				"Set Syntax: Python"
+			],
+			[
+				"git: gra",
+				"Git: Graph All"
+			],
+			[
+				"git: gr",
+				"Git: Graph All"
+			],
+			[
+				"GIT: STA",
+				"Git: Stash Changes"
+			],
+			[
+				"git:",
+				"Git: Diff All"
+			],
+			[
+				"git: lo",
+				"Git: Log All"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/exata-update/app/Model/Aplicativo.php",
+		"/home/gustavo/Dropbox/dev/teste-git/readme.md",
+		"/var/www/blog/app/Model/Post.php",
+		"/var/www/blog/app/Controller/PostsController.php",
+		"/var/www/blog/app/View/Posts/view.ctp",
+		"/var/www/blog/app/View/Posts/add.ctp",
+		"/var/www/blog/app/View/Posts/index.ctp",
+		"/var/www/blog/app/View/Posts/edit.ctp",
+		"/var/www/blog/app/View/Posts/delete.ctp",
+		"/var/www/blog/app/Config/routes.php",
+		"/etc/apache2/httpd.conf",
+		"/var/www/blog/app/tmp/logs/error.log",
+		"/var/www/zf2-tutorial/module/Album/src/Album/Model/AlbumTable.php",
+		"/var/www/zf2-tutorial/module/Album/Module.php",
+		"/var/www/zf2-tutorial/config/autoload/global.php",
+		"/var/www/zf2-tutorial/config/autoload/local.php",
+		"/var/www/zf2-tutorial/module/Album/src/Album/Controller/AlbumController.php",
+		"/var/www/zf2-tutorial/module/Album/view/album/album/index.phtml",
+		"/var/log/apache2/error.log",
+		"/var/www/zf2-tutorial/config/autoload/local.php.dist",
+		"/var/log/apache2/access.log",
+		"/etc/hosts",
+		"/var/www/blog/app/Config/database.php",
+		"/var/www/cakephp/app/View/Pages/home.ctp",
+		"/var/www/cakephp/app/Config/database.php",
+		"/home/gustavo/Dropbox/dev/estudo-html/revisao.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/revisao.css",
+		"/var/www/cakephp/app/Config/core.php",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-25.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-26.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-25.css",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-24.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-24.css",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-23.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-23.css",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-22.css",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-22.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-20.css",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-21.css",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-21.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-20.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-19.css",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-19.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-07.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc.py",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-06.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-05.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-04.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-03.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-02.html",
+		"/home/gustavo/Dropbox/dev/estudo-html/exerc-01.html",
+		"/home/gustavo/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/gustavo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/gustavo/.config/sublime-text-2/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/gustavo/.config/sublime-text-2/Packages/Emmet/Emmet.sublime-settings",
+		"/home/gustavo/Dropbox/dev/estudo-html/index.html",
+		"/usr/share/applications/sublime-text-2.desktop"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}
